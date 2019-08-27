@@ -1,8 +1,8 @@
 # float
 
-A JS library for creating configurable overlays.
+A JS library for creating overlays.
 
-![float](float-example.png)
+![float](float.gif)
 
 ## API
 
@@ -40,8 +40,3 @@ floaters.positionStrategies.ninja(
 ```
 
 `floaters.ufo( document.querySelector("#attachTo"), 'hello' );`
-
-# ToDo
-
-- move class from main to separate file
-- scss with webpack (import \* as styles from './xxx.scsss')
